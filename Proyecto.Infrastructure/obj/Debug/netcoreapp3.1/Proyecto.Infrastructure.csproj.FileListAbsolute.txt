@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\ProyectoPrueba\Proyecto.Infrastructure\bin\Debug\netcoreapp3.1\Proyecto.Infrastructure.deps.json
+C:\Users\Usuario\source\repos\ProyectoPrueba\Proyecto.Infrastructure\bin\Debug\netcoreapp3.1\Proyecto.Infrastructure.dll
+C:\Users\Usuario\source\repos\ProyectoPrueba\Proyecto.Infrastructure\bin\Debug\netcoreapp3.1\Proyecto.Infrastructure.pdb
+C:\Users\Usuario\source\repos\ProyectoPrueba\Proyecto.Infrastructure\bin\Debug\netcoreapp3.1\Proyecto.Core.dll
+C:\Users\Usuario\source\repos\ProyectoPrueba\Proyecto.Infrastructure\bin\Debug\netcoreapp3.1\Proyecto.Core.pdb
+C:\Users\Usuario\source\repos\ProyectoPrueba\Proyecto.Infrastructure\obj\Debug\netcoreapp3.1\Proyecto.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\ProyectoPrueba\Proyecto.Infrastructure\obj\Debug\netcoreapp3.1\Proyecto.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\ProyectoPrueba\Proyecto.Infrastructure\obj\Debug\netcoreapp3.1\Proyecto.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\ProyectoPrueba\Proyecto.Infrastructure\obj\Debug\netcoreapp3.1\Proyecto.Infrastructure.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\ProyectoPrueba\Proyecto.Infrastructure\obj\Debug\netcoreapp3.1\Proyecto.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ProyectoPrueba\Proyecto.Infrastructure\obj\Debug\netcoreapp3.1\Proyecto.Infrastructure.csproj.CopyComplete
+C:\Users\Usuario\source\repos\ProyectoPrueba\Proyecto.Infrastructure\obj\Debug\netcoreapp3.1\Proyecto.Infrastructure.dll
+C:\Users\Usuario\source\repos\ProyectoPrueba\Proyecto.Infrastructure\obj\Debug\netcoreapp3.1\Proyecto.Infrastructure.pdb
+C:\Users\Usuario\source\repos\ProyectoPrueba\Proyecto.Infrastructure\bin\Debug\netcoreapp3.1\Proyecto.Infrastructure.runtimeconfig.json
+C:\Users\Usuario\source\repos\ProyectoPrueba\Proyecto.Infrastructure\bin\Debug\netcoreapp3.1\Proyecto.Infrastructure.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\ProyectoPrueba\Proyecto.Infrastructure\obj\Debug\netcoreapp3.1\Proyecto.Infrastructure.genruntimeconfig.cache
